@@ -7,7 +7,7 @@ public class Add_game_2 {
 
 
     public static void main(String[] args) {
-        boolean playagain = true;
+
         Scanner scanner = new Scanner(System.in);
         Random random = new Random();
 
